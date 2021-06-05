@@ -5,8 +5,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon ./server.js",
-    "build": "next build",
-    "start": "next start"
+    "build": "yarn build",
+    "start": "yarn start"
   },
   "dependencies": {
     "dotenv": "^10.0.0",
