@@ -33,5 +33,4 @@ module.exports = {
     await client.close();
     return user;
   }
-
 };
